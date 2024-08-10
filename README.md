@@ -1,4 +1,4 @@
-# -How-Expensive-Healthcare-Is---A-Regression-Case-Study---Regression-Project-using-R
+# Prediction of Medical Cost Billed by Health Insurance
  Checked for missing values, applied One-Hot encoding on 3 categorical variables
  Checked for outliers, split the data into train & test sets and removed influential points using Cook’s Distance
  Analyzed interaction among features, followed by splitting the data into 3 subsets and fitted MLR model
